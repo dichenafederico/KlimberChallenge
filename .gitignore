@@ -1,2 +1,3 @@
-bin/
-packages/
+**/bin/*
+**/obj/*
+**/packages/*
